@@ -1,3 +1,690 @@
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 日期: 2016/6/16 17:04:09
 Dashboard news feed: Unable to connect to the remote server
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:20:46
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:20:46
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:20:46
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:21:02
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:21:02
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:21:02
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:25:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:25:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:25:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:18
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:18
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:18
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:30
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:30
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:30
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:33:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:31
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:31
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:31
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:34:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:35:17
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:35:17
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:35:17
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:37:33
+POST http://localhost:7600/api/customfields: Custom field is required
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:38:17
+POST http://localhost:7600/api/customfields: Custom field is required
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:40:47
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:40:47
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:40:47
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:40:58
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:40:58
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:40:58
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:49
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:49
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:41:49
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:42:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:42:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:42:10
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:44:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:44:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:44:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:44:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:44:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:44:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:45:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:45:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:45:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:54:19
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:54:19
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:54:19
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:55:00
+Error adding custom field: 参数化查询 '(@customtype nvarchar(7),@blogid nvarchar(36),@objectid nvarchar' 需要参数 '@value'，但未提供该参数。
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:55:00
+POST http://localhost:7600/api/customfields: 参数化查询 '(@customtype nvarchar(7),@blogid nvarchar(36),@objectid nvarchar' 需要参数 '@value'，但未提供该参数。
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:57:53
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:57:53
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:57:53
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:58:14
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:58:14
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:58:14
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:59:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:59:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 20:59:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:00:05
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:00:05
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:00:05
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:02:27
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:02:27
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:02:27
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:02:48
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:02:48
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:02:48
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:09:08
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:09:08
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:09:08
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:11:39
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:11:39
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:11:39
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:13:56
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:13:56
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:13:56
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:14:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:14:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:14:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:15:01
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:15:01
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:15:01
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:15:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:15:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:15:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:16:32
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:16:32
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:16:32
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:34:20
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:34:20
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:34:20
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:35:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:35:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:35:22
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:35:23
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:35:23
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:35:23
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:36:25
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:36:25
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:36:25
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:39:19
+BlogEngine.Core.Packaging.Installer.InstallPackage(angularjs): The file 'C:\MY\Code\DW3C.COM\BlogEngine\BlogEngine.NET\Scripts\i18n\angular-locale_aa-dj.js' already exists.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:39:19
+Can not find any files installed for package: angularjs
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:39:19
+PUT http://localhost:7600/api/packages/install/angularjs: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:40:20
+Installed package GistExtension by Admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:47
+Can not find any files installed for package: angularjs
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:47
+BlogEngine.Core.Packaging.Installer.InstallPackage(angularjs): Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:47
+Can not find any files installed for package: angularjs
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:47
+PUT http://localhost:7600/api/packages/install/angularjs: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:53
+Can not find any files installed for package: angularjs
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:53
+BlogEngine.Core.Packaging.Installer.InstallPackage(angularjs): Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:53
+Can not find any files installed for package: angularjs
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:44:53
+PUT http://localhost:7600/api/packages/install/angularjs: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:50:09
+Installed package AddThis by Admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:52:00
+Installed package NivoSlider by Admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:21
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:21
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:21
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:43
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:47
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:47
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:53:47
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:32
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:32
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:32
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:34
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:34
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:34
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:48
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:48
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:48
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:55:51
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:58:16
+Uninstalled package AddThis by Admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:59:12
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:59:12
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 21:59:12
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:01:31
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:01:31
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:01:31
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:02:53
+Uninstalled package NivoSlider by Admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:05:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:05:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:05:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:05:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:05:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:05:37
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:06:28
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:06:28
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:06:28
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:06:57
+Uninstalled package GistExtension by Admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:07:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:07:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:07:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:07:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:07:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:07:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:08:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:08:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:08:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:08:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:08:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:08:24
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:15
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:18
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:18
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:18
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:26
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:26
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:26
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:28
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:28
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:28
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:55
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:58
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:58
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:58
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:59
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:59
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:10:59
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:16
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:20
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:20
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:20
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:38
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:38
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:38
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:38
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:38
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:38
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:40
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:40
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:11:40
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Visitor info/widget.cshtml: The file '/Custom/Widgets/Visitor info/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+日期: 2016/6/24 22:14:10
+The operation has timed out

@@ -1,0 +1,275 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BlogEngine.NET.Custom.Themes.MyselfPage.Site" %>
+<%@ Import Namespace="BlogEngine.Core" %>
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="zh-CN" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="zh-CN" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="zh-CN" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="zh-CN" class="no-js">
+<!--<![endif]-->
+<head runat="Server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <link rel="icon" href="~/favicon.ico" type="image/x-icon">
+    <link href="//cdn.bootcss.com/normalize/3.0.3/normalize.min.css" rel="stylesheet">
+    <link href="//cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/Custom/Themes/MyselfPage/css/main.css">
+    <link href="/Custom/Themes/MyselfPage/css/responsive.css" rel="stylesheet" />
+    <link href="~/scripts/syntaxhighlighter/styles/shCoreEmacs.css" rel="stylesheet" type="text/css" />
+    <link href="~/scripts/syntaxhighlighter/styles/shThemeEmacs.css" rel="stylesheet" type="text/css" />
+    <script src="//cdn.bootcss.com/modernizr/2.8.3/modernizr.min.js"></script>
+    <!--[if lt IE 9]>
+    <script src="//cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
+    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="//cdn.bootcss.com/jquery/2.2.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/Scripts/jQuery/01-jquery-1.9.1.min.js"><\/script>')</script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body class="ltr">
+<!--[if lt IE 7]>
+    <p class="chromeframe">您正在使用<strong>过期</strong>的浏览器. 请<a href="http://browsehappy.com/">升级你的浏览器</a>或者下载<a href="http://www.firefox.com.cn/download/">火狐浏览器(Fire Fox)</a>来提升浏览效果.</p>
+<![endif]-->
+<form id="mainform" runat="Server">
+    <header class="header">
+        <div class="navbar navbar-inverse" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav ">
+                        <li><a href="<%=Utils.AbsoluteWebRoot %>"><%=Resources.labels.home %></a></li>
+                        <%--<li><a href="<%=Utils.AbsoluteWebRoot %>archive<%= BlogConfig.FileExtension %>"><%=Resources.labels.archive %></a></li>--%>
+                        
+                        <% var cats = BlogEngine.Core.Category.Categories.OrderByDescending(e => e.Id);
+                           foreach (BlogEngine.Core.Category cat in cats)
+                            { %>
+                        <li class="page-menu clearfix">
+                            <a href="<%=cat.AbsoluteLink %>" class="pull-left dropdown-m"><%=cat.Title%> </a>
+                            </li>
+                        <% } %>
+                        <li><a href="./angular1/docs" target="_blank">AngularJS文档</a></li>
+                        <li><a href="<%=Utils.AbsoluteWebRoot %>contact<%= BlogConfig.FileExtension %>"><%=Resources.labels.contact %></a></li>
+                        <%foreach (BlogEngine.Core.Page parentPage in BlogEngine.Core.Page.Pages.Where(p => !p.HasParentPage && p.IsPublished && p.ShowInList).OrderBy(p => p.SortOrder))
+                            { %>
+                        <li class="page-menu clearfix">
+                            <a href="<%=parentPage.RelativeLink %>" class="pull-left dropdown-m"><%=parentPage.Title%> </a>
+                            <%if (parentPage.HasChildPages)
+                                { %>
+                            <a href="#" data-toggle="dropdown" class="dropdown-toggle pull-left"><span class="caret"></span></a>
+                            <ul class="dropdown-menu dropdown-menu-u">
+                                <%foreach (BlogEngine.Core.Page childPage in BlogEngine.Core.Page.Pages.Where(p => p.Parent == parentPage.Id && p.IsPublished))
+                                    { %>
+                                <li><a href="<%=childPage.RelativeLink %>"><%=childPage.Title %></a></li>
+                                <% } %>
+                            </ul>
+                            <% } %></li>
+                        <% } %>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a runat="server" id="aLogin"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
+                        <div class="logo-content">
+                            <div class="bb">
+                                <a href="<%=Utils.AbsoluteWebRoot %>"><img src="<%=Utils.RelativeWebRoot %>[CUSTOMFIELD|THEME|MyselfPage|Logo Address|Custom/Themes/MyselfPage/images/logo.png/]" class="pull-left logo" alt="<%=BlogSettings.Instance.Name %>" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <hgroup class="pull-left">
+                            <h1><a href="<%=Utils.AbsoluteWebRoot %>"><%=BlogSettings.Instance.Name %></a></h1>
+                            <h3><%=BlogSettings.Instance.Description %></h3>
+                        </hgroup>
+                    </div>
+                    <div class="col-md-4">
+                        <%--<div id="social-icons" class="pull-right social-icon" style="display: none;">
+                            <a href="https://facebook.com/[CUSTOMFIELD|THEME|Standard-2015|Facebook account|BlogEngine.NET/]">
+                                <img src="~/Custom/Themes/Standard-2015/images/facebook.png" runat="server" />
+                            </a>
+                            <a href="https://twitter.com/[CUSTOMFIELD|THEME|Standard-2015|Twitter account|blogenginenet/]">
+                                <img src="~/Custom/Themes/Standard-2015/images/twitter.png" runat="server" />
+                            </a>
+                            <a href="https://plus.google.com/[CUSTOMFIELD|THEME|Standard-2015|Google plus|u/0/]">
+                                <img src="~/Custom/Themes/Standard-2015/images/googleplus.png" runat="server" />
+                            </a>
+                            <a href="<%=Utils.FeedUrl %>">
+                                <img src="~/Custom/Themes/Standard-2015/images/rss.png" runat="server" />
+                            </a>
+                        </div>--%>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="container">
+        <div class="row">
+            <section class="col-md-9 content-wrapper">
+                <blog:SearchOnSearch ID="SearchOnSearch1" runat="server" MaxResults="3" Headline="You searched for" Text="Here are some results for the search term on this website" />
+                <asp:ContentPlaceHolder ID="cphBody" runat="server" />
+            </section>
+            <aside class="col-md-3 sidebar-wrapper">
+                <blog:WidgetZone ID="WidgetZone1" runat="server" ZoneName="be_WIDGET_ZONE" />
+            </aside>
+        </div>
+        <div id="to-top">
+            <i title="返回顶部">返回顶部</i>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="foot-widget">
+                        <h3>关于本站</h3>
+                        <div class="content">
+                            <div class="text-center" style="margin-bottom:10px;"><a href="/" ><img src="/Custom/Themes/MyselfPage/images/logo.png" alt="logo" class="img-rounded logo"></a></div>
+                            <p>首先非常感谢你来到这里，你的光临是本站的荣幸。
+    这里是一个纯粹的前端技术分享博客，本站的目的是为前端技术人员提供所需的资讯及资源。 </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="foot-widget">
+                        <h3>关于站长</h3>
+                        <div class="content">
+                            <p>王君实，昵称“紫色的旋律”,英文名“Clay Wang”,<a href="<%=Utils.AbsoluteWebRoot %>">《<%=BlogSettings.Instance.Name %>》</a>博客创始人，
+                                全栈软件开发工程师，就职于某世界500强外企上海分部从事Web开发工作。对JavaScript,HTML5、CSS3和Sass等前端脚本语言有非常深入的认识和丰富的实践经验。
+                                本人提供长期的前端项目外包，建站，以及提供企业广告展示与招聘发布，有需要的请联系：QQ:375111753,Email:<a href="mailto:admin@dw3c.com">admin@dw3c.com</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="foot-widget">
+                        <h3>关注我们</h3>
+                        <div class="content">
+                            <span class="social">
+                                <a href="http://weibo.com/dw3c" target="_blank" class="weibo" title="关注dw3c微博">weibo</a>
+                                <a href="https://facebook.com/dw3ccom" target="_blank" class="facebook" title="facebook">facebook</a>
+                                <a href="http://cn.linkedin.com/in/dw3ccom" target="_blank" class="linkedin" title="linkedin">linkedin</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="end-line text-center">
+            <p class="text-muted credit">Copyright &copy; <%=DateTime.Now.Year %> <a href="<%=Utils.AbsoluteWebRoot %>"><%=BlogSettings.Instance.Name %></a> | &copy;<a href="http://dw3c.com" target="_blank">dw3c.com </a> All Rights Reserved | <a href="http://www.miitbeian.gov.cn/">沪ICP备13027045号</a> </p>
+        </div>
+    </footer>
+    <script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="<%= ShRoot %>scripts/XRegExp.js"></script>
+    <script type="text/javascript" src="<%= ShRoot %>scripts/shCore.js"></script>
+    <script type="text/javascript" src="<%= ShRoot %>scripts/shAutoloader.js"></script>
+    <script type="text/javascript" src="<%= ShRoot %>shActivator.js"></script>
+    <script type="text/javascript" src="/Custom/Themes/MyselfPage/js/dw3c.js"></script>
+    <script>
+        $(function() {
+            dw3c.scrollPageTop($('#to-top'));
+            var defArg = {
+                source: [
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skin037/images/body_bg.jpg?id=201503261330",
+                        bgColor: "#f5e9d3"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip334/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#003442"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip805/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#5e7aa1"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skin055/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#1f160e"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip072/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#e2e7e2"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip311/images/body_bg.jpg?id=1414052751924",
+                        bgColor: "#A6CBE1"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip409/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#feca97"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvipf005/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#235a6f"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip801/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#90cdef"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip803/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#663c28"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip417/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "##f1ceb5"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip405/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#01081a"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip408/images/body_bg.jpg?id=201504011050",
+                        bgColor: "#d5d6ce"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip325/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#faeed8"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip310/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#e4e1e8"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip243/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#d4caa6"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip303/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#F0E6B4"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip199/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#c1c9c5"
+                    },
+                    {
+                        src: "http://img.t.sinajs.cn/t6/skin/skinvip022/images/body_bg.jpg?id=1410943047113",
+                        bgColor: "#ccb688"
+                    }
+                ]
+            };
+            dw3c.compentPrevLoad(defArg.source, function (arrLoadImgs) {
+                if (!arrLoadImgs) {
+                    arrLoadImgs = [];
+                }
+                this.animBackImg(arrLoadImgs, $(".title-wrapper"));
+            });
+        });
+    </script>
+</form>
+</body>
+</html>

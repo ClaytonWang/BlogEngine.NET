@@ -15,7 +15,7 @@
     <RootNamespace>BlogEngine.NET</RootNamespace>
     <AssemblyName>BlogEngine.NET</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -549,6 +549,24 @@
     <Content Include="Custom\Controls\Defaults\CommentView.ascx" />
     <Content Include="Custom\Controls\Defaults\PostView.ascx" />
     <Content Include="Custom\Media\sample.flv" />
+    <Content Include="Custom\Themes\MyselfPage\CommentForm.ascx" />
+    <Content Include="Custom\Themes\MyselfPage\CommentView.ascx" />
+    <Content Include="Custom\Themes\MyselfPage\css\main.css" />
+    <Content Include="Custom\Themes\MyselfPage\css\responsive.css" />
+    <Content Include="Custom\Themes\MyselfPage\images\facebook.png" />
+    <Content Include="Custom\Themes\MyselfPage\images\linkedin.png" />
+    <Content Include="Custom\Themes\MyselfPage\images\logo.png" />
+    <Content Include="Custom\Themes\MyselfPage\images\scrollup.png" />
+    <Content Include="Custom\Themes\MyselfPage\images\tiny_grid.png" />
+    <Content Include="Custom\Themes\MyselfPage\images\weibo.png" />
+    <Content Include="Custom\Themes\MyselfPage\js\dw3c.js" />
+    <Content Include="Custom\Themes\MyselfPage\newsletter.html" />
+    <Content Include="Custom\Themes\MyselfPage\PostNavigation.ascx" />
+    <Content Include="Custom\Themes\MyselfPage\PostView.ascx" />
+    <Content Include="Custom\Themes\MyselfPage\RelatedPosts.ascx" />
+    <Content Include="Custom\Themes\MyselfPage\theme.png" />
+    <Content Include="Custom\Themes\MyselfPage\theme.xml" />
+    <Content Include="Custom\Themes\MyselfPage\WidgetContainer.ascx" />
     <Content Include="Custom\Themes\Standard-2015\CommentForm.ascx" />
     <Content Include="Custom\Themes\Standard-2015\CommentView.ascx" />
     <Content Include="Custom\Themes\Standard-2015\css\bootstrap.min.css" />
@@ -760,6 +778,7 @@
     <Content Include="admin\themes\standard\scss\rtl\_rtl.tables.scss" />
     <Content Include="admin\themes\standard\scss\styles.scss" />
     <Content Include="Custom\Widgets\CategoryList\edit.cshtml" />
+    <Content Include="Custom\Themes\MyselfPage\Site.Master" />
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-dj.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-er.js" />
@@ -2146,6 +2165,13 @@
     <Compile Include="contact.aspx.designer.cs">
       <DependentUpon>contact.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Custom\Themes\MyselfPage\Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Custom\Themes\MyselfPage\Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
     <Compile Include="Custom\Themes\Standard-2015\site.master.cs">
       <DependentUpon>site.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -2448,7 +2474,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>64079</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:64079/</IISUrl>
+          <IISUrl>http://localhost:7600</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
